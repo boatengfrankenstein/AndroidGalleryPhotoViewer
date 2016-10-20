@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gallery photo App</string>
+
+
+    <string name="no_img_found">No Images found</string>
+    <string name="error_img">Error Fetching images</string>
+</resources>
