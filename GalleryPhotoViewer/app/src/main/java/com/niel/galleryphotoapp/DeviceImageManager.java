@@ -8,6 +8,11 @@ import android.util.Log;
 
 import java.util.Vector;
 
+
+/**
+ * Created by Nilesh on 9/4/2015.
+ */
+
 public class DeviceImageManager {
 
     public static void getPhoneAlbums(Context context , OnPhoneImagesObtained listener ){
@@ -30,7 +35,7 @@ public class DeviceImageManager {
                 projection, // Which columns to return
                 null,       // Which rows to return (all rows)
                 null,       // Selection arguments (none)
-                null        // Ordering
+                MediaStore.Images.Media.DATE_TAKEN +"  DESC"       // Ordering
         );
 
         if ( cur != null && cur.getCount() > 0 ) {

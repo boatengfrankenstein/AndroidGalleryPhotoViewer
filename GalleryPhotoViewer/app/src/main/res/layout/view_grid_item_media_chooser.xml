@@ -3,15 +3,6 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     >
-<!--
-    <ImageView
-        android:id="@+id/imageViewFromMediaChooserGridItemRowView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:contentDescription="@null"
-        android:scaleType="centerCrop"
-        />-->
-
 
 <RelativeLayout
     android:id="@+id/rlImg"
@@ -46,55 +37,4 @@
 
 </RelativeLayout>
 
-<!--
-    <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-android:id="@+id/card_view"
 
-android:layout_width="match_parent"
-android:layout_height="wrap_content">
-
-<RelativeLayout
-    android:id="@+id/relGrid"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:background="@color/white"
-    android:padding="@dimen/padding_2dp">
-
-    <com.skcsllp.mutterfly.widgets.SquareImageView
-        android:id="@+id/picture"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="@dimen/padding_16dp" />
-
-    <com.skcsllp.mutterfly.widgets.MfTextView
-        android:id="@+id/text"
-        style="@style/textview"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_marginBottom="@dimen/padding_4dp"
-        android:layout_marginTop="@dimen/padding_4dp"
-        android:background="@color/transparent"
-        android:gravity="start"
-        android:padding="@dimen/padding_4dp"
-        android:text="Table Tannis raqcet"
-        android:textColor="@color/orange_tint_text" />
-
-    &lt;!&ndash; <TextView
-         android:id="@+id/text"
-         android:layout_below="@+id/picture"
-         android:layout_width="match_parent"
-         android:layout_height="wrap_content"
-         android:paddingLeft="10dp"
-         android:paddingRight="10dp"
-         android:paddingTop="15dp"
-         android:paddingBottom="15dp"
-         android:layout_gravity="bottom"
-         android:gravity="center"
-         android:textColor="@android:color/white"
-         android:background="#55000000"
-         />&ndash;&gt;
-
-</RelativeLayout>
-</RelativeLayout>-->

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="48dp"
-    android:orientation="horizontal">
+    android:layout_height="?attr/actionBarSize"
+    >
 
   <ImageView
       android:id="@+id/camera"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:src="@drawable/addimg"
+      android:src="@drawable/ic_cam"
        android:layout_centerVertical="true"
       android:layout_toLeftOf="@+id/upload"
       android:layout_toStartOf="@+id/upload"
@@ -21,7 +21,7 @@
       android:id="@+id/upload"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:src="@drawable/order_complete_tick"
+      android:src="@drawable/ic_tick"
       android:layout_alignParentRight="true"
       android:layout_alignParentEnd="true"
 

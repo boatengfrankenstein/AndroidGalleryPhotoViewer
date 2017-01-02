@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.Vector;
 
 /**
- * Created by Shreya on 9/4/2015.
+ * Created by Nilesh on 9/4/2015.
  */
 public class ImageFragment extends Fragment {
     public ImageView imagePreview;
@@ -77,7 +77,7 @@ public class ImageFragment extends Fragment {
             mImageRecyclerView.setAdapter(mImageAdapterGallery);
             String firstImagePath = mGalleryModelList.get(0).getPhotoUri();
             mSelectedItems.add(firstImagePath);
-            glide.load(firstImagePath).diskCacheStrategy(diskCacheStrategy).skipMemoryCache(true).dontAnimate().into(imagePreview);
+            glide.load(firstImagePath).diskCacheStrategy(diskCacheStrategy).centerCrop().skipMemoryCache(true).dontAnimate().into(imagePreview);
 
         } else {
             Toast.makeText(getActivity(), "No Media Files Available", Toast.LENGTH_SHORT).show();
@@ -135,7 +135,7 @@ public class ImageFragment extends Fragment {
                         MediaChooserConstants.SELECTED_MEDIA_COUNT--;
                     }
 
-                    glide.load(galleryModel.getPhotoUri()).diskCacheStrategy(diskCacheStrategy).skipMemoryCache(true).dontAnimate().into(imagePreview);
+                    glide.load(galleryModel.getPhotoUri()).diskCacheStrategy(diskCacheStrategy).centerCrop().skipMemoryCache(true).dontAnimate().into(imagePreview);
 
 
                 }
@@ -156,7 +156,8 @@ public class ImageFragment extends Fragment {
             model.setPhotoUri(item);
 
             mGalleryModelList.add(0, model);
-            glide.load(model.getPhotoUri()).diskCacheStrategy(diskCacheStrategy).skipMemoryCache(true).dontAnimate().into(imagePreview);
+            mSelectedItems.add(model.getPhotoUri());
+            glide.load(model.getPhotoUri()).diskCacheStrategy(diskCacheStrategy).centerCrop().skipMemoryCache(true).dontAnimate().into(imagePreview);
 
             mImageAdapterGallery.notifyDataSetChanged();
         }

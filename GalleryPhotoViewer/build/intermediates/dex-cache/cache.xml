@@ -2,184 +2,184 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c7ebd464b6154a880282b6faed3e04d6eb48d6e6.jar" />
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_a9421e41598dfd40f5da87db33e9506ec37ce2e6/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4154ee67c7106680ba1a3dd0ee3ee337f5d5826b.jar" />
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_4a3af010bd3aaec2fa98baf45e7312da9039fe00/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_607db4d5fa3799b586a53a4ad163289a72a3a5fa.jar" />
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_b5b002f46b53f715711ceb518d17e25fda0352d8/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_d98f4ba015da794035176991d415832a0904da32.jar" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_74e2354f9ee9df63da995dd9a6959d6a5f50e0a4/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="33048507044f12b4021a0e0055306c910b45495a">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/instant-run_d6b3333bc6da44801ef87b0411061d6e09c82c6c.jar" />
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_8cfebf5ef8cc4f3c0c90e28d15652f97908258ce/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_7ee6f0745f89e2c588d568c32d6147d414772eae.jar" />
+        sha1="cf0fe61d9aaf905404e4c123be051dd2345b0fb1">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6fc5b43898d515bbd5e8b5c1320fa259b1190b91/classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/Niel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_c8533e863c80d5bf47ea4d2b9b8fbaa30f90c6f2.jar" />
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_c8533e863c80d5bf47ea4d2b9b8fbaa30f90c6f2/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_0fdec919a9fe1b316058b2d8d0e5ce95560fafdd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_29fe3f73e103ec18a82c656a123dbdb81eabbddd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_5fd7c4541817daba339440f4cc77fd5cfb81b74b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_82567c2d998c0a98439d4091f3c84c33f198ede3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_b5d94ff33a15becfaeb050941c88f0da9731acee.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_13b118b1a35458c5267c3579c3f8a9f752e1fc32.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_5fe9ed3a97dcc88521003b98cf080a3ed22bb95f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="61c95fdcd08d3f0c65a2333367a683b736d53c65">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_accb5534dba9cc019f237cbaf851c129d1e9841c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_d85f1636e741b68dc262ea6243fdfa5f49087d61.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_45ec218362307ca00faf04895dd0d5d52501664f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_c0bb1ef21ecebd1a4d7334e3631f6b903217e1f4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_3307b29f43fcf96e745d91e0f872bf05a00f349a.jar" />
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_2d534e0097bf5f75530671964004d0abaca8b630/classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_562a6194c53032546cc72ecfa70da37739baa553/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_0a9332c20b0b54b325d78914c69ed9d63c431a12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cd371b234be21ef9b58d2be0a7d00f34f0b6a8a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f5e95e95d49f38bb4e009f6450725c70f96147d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_9da9b346c22a206ebc0fe316cab8e2c3fdf53887/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_6df2276f130772975268bc983226891765aafedf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8cc6326e1c9cabaec21d75749ef1c565c9380153">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_120c336fbcdf433f637b1a81f7692723273c2174/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_b87a6abc6d85fef5a51960be68d391b546c976fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_843f38c26ee62dd6f31b1308b3bc1d0386340429/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a0129f514a572536469d9c6141aa64a1cb115e69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_4427a0ff8124c68811944719edb70b624d8f3600/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Niel/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
-        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/gallery/GalleryphotoApp/app/build/intermediates/pre-dexed/debug/glide-3.6.1_7c4a798751ed654b2852614481f689f2bbc6213f.jar" />
+        <dex dex="/Users/Niel/Desktop/Nilesh/Workspace/Android/GalleryApp/GalleryPhotoViewer/GalleryPhotoViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.1_7c4a798751ed654b2852614481f689f2bbc6213f/classes.dex" />
     </item>
 
 </items>

@@ -4,4 +4,5 @@
 
     <string name="no_img_found">No Images found</string>
     <string name="error_img">Error Fetching images</string>
+    <string name="open_gallery">Open Gallery</string>
 </resources>

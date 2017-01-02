@@ -12,13 +12,13 @@ import com.bumptech.glide.RequestManager;
 
 import java.util.Vector;
 
+
 /**
- * Created by Nilesh Deokar on 28/09/2015.
+ * Created by Nilesh on 9/4/2015.
  */
+
 public class GridGalleryAdapter extends RecyclerView.Adapter<GridGalleryAdapter.MainViewHolder> {
 
-
-    private Vector<PhoneAlbum> mPhoneAlbums = new Vector<>();
 
     private Vector<PhonePhoto> phonePhotos = new Vector<>();
 
@@ -48,9 +48,6 @@ public class GridGalleryAdapter extends RecyclerView.Adapter<GridGalleryAdapter.
     @Override
     public void onBindViewHolder(MainViewHolder mHolder, int position) {
 
-
-
-
             glide.
                     load("file:" + phonePhotos.get(position).getPhotoUri())
                     .centerCrop()
@@ -62,7 +59,6 @@ public class GridGalleryAdapter extends RecyclerView.Adapter<GridGalleryAdapter.
         } else {
             if (selectedPosition == position) {
                 mHolder.over_view_rl.setBackgroundResource(R.drawable.orange_rectangle_imageview_border);
-                //Toast.makeText(mContext,"selected "+position,Toast.LENGTH_SHORT).show();
             } else {
                 mHolder.over_view_rl.setBackgroundResource(0);
             }
@@ -79,7 +75,7 @@ public class GridGalleryAdapter extends RecyclerView.Adapter<GridGalleryAdapter.
     }
 
 
-    protected class MainViewHolder extends RecyclerView.ViewHolder {
+     class MainViewHolder extends RecyclerView.ViewHolder {
 
         ImageView imageView;
 
@@ -87,8 +83,6 @@ public class GridGalleryAdapter extends RecyclerView.Adapter<GridGalleryAdapter.
 
         private MainViewHolder(View v) {
             super(v);
-
-            //imageView = (ImageView) v.findViewById(R.id.picture);
 
             imageView = (ImageView) v.findViewById(R.id.imageViewFromMediaChooserGridItemRowView);
             over_view_rl = (RelativeLayout)v.findViewById(R.id.rlImg);

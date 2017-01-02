@@ -34,7 +34,7 @@ import java.util.Date;
 import java.util.Vector;
 
 /**
- * Created by Shreya on 9/4/2015.
+ * Created by Nilesh on 9/4/2015.
  */
 
 public class HomeFragmentActivity extends BaseActivity implements View.OnClickListener,OnPhoneImagesObtained {
@@ -50,16 +50,27 @@ public class HomeFragmentActivity extends BaseActivity implements View.OnClickLi
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_homr_media_chosser);
+        setContentView(R.layout.activity_home_media_chosser);
         context = this;
 
         LayoutInflater inflater = LayoutInflater.from(context);
         View v = inflater.inflate(R.layout.custom_actionbar, null);
 
-        setupToolbar();
-        setupBackButton();
+        Toolbar mToolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(mToolbar);
+
+
+        getSupportActionBar().setHomeButtonEnabled(true);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayShowCustomEnabled(true);
+        getSupportActionBar().setIcon(android.R.color.transparent);
 
         getSupportActionBar().setCustomView(v);
+
+//        setupToolbar();
+  //      setupBackButton();
+
+//        getSupportActionBar().setCustomView(v);
 
         v.findViewById(R.id.camera).setOnClickListener(this);
         v.findViewById(R.id.upload).setOnClickListener(this);
@@ -213,7 +224,6 @@ public class HomeFragmentActivity extends BaseActivity implements View.OnClickLi
                         imageIntent.setAction("lNc_imageSelectedAction");
                         imageIntent.putStringArrayListExtra("list", imageFragment.getSelectedImageList());
                         setCapturedImage(imageFragment.getSelectedImageList().get(imageFragment.getSelectedImageList().size() - 1));
-
                         setResult(Activity.RESULT_OK, imageIntent);
 
 

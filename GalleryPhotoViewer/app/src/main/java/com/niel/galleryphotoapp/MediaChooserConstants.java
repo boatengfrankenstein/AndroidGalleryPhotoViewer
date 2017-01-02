@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import java.io.File;
 
 /**
- * Created by Shreya on 9/4/2015.
+ * Created by Nilesh on 9/4/2015.
  */
 public class MediaChooserConstants {
 
@@ -16,6 +16,7 @@ public class MediaChooserConstants {
     public static final int MEDIA_TYPE_IMAGE = 1;
     public static final int MEDIA_TYPE_VIDEO = 2;
     public static final int CAPTURE_IMAGE_ACTIVITY_REQUEST_CODE = 100;
+    public static final int SELECT_IMAGE_REQUEST_CODE = 111;
     public static final int CAPTURE_VIDEO_ACTIVITY_REQUEST_CODE = 200;
     /**
      * folder name on which captured photo & video are saved on sd card.
