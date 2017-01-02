@@ -3,6 +3,10 @@
 
 This would help you to display user's all images in your app according to their respective albums.
 
+Still needs many improvements any help would be appreciated. 
+
+
+
 <a href="url"><img src="https://github.com/ndeokar/GalleryPhotoViewer/blob/master/GalleryPhotoViewer/preview/gallery_select.gif" align="left" height="800" width="400" ></a>
 
 
